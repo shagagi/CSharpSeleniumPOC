@@ -1,0 +1,16 @@
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\CSharpSeleniumPOC.dll.config
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\CSharpSeleniumPOC.dll
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\CSharpSeleniumPOC.pdb
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\Excel.dll
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\nunit.framework.dll
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\WebDriver.dll
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\WebDriver.Support.dll
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\Excel.pdb
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\nunit.framework.xml
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\WebDriver.xml
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\WebDriver.Support.xml
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\obj\Debug\CSharpSeleniumPOC.dll
+c:\users\syoussef\documents\visual studio 2015\Projects\CSharpSeleniumPOC\CSharpSeleniumPOC\obj\Debug\CSharpSeleniumPOC.pdb
